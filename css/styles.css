@@ -1,11 +1,11 @@
 
 body {
-  font-family: "Montserrat";
+  font-family: "Asap";
   text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Asap";
   color: #14ffec;
 }
 
@@ -16,8 +16,8 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
-  font-size: 3.5rem;
+  font-family: "Asap";
+  font-size: 3rem;
   line-height: 1.5;
 }
 
@@ -50,7 +50,7 @@ p {
 }
 
 .navbar-brand {
-  font-family: "Ubuntu";
+  font-family: "Asap";
   font-size: 2.5rem;
   font-weight: bold;
 }
@@ -61,7 +61,7 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Asap";
 }
 
 /* Buttons */
